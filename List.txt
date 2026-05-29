@@ -6,3 +6,5 @@ List of subjects for computer Science:
 5]DIGITALL ELECTRONICS
 6]PCPI
 7]Java
+6]Math
+7]Web Tech
