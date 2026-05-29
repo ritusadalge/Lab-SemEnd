@@ -4,3 +4,5 @@ List of subjects for computer Science:
 3]DSA
 4]ADA
 5]DIGITALL ELECTRONICS
+6]Math
+7]Web Tech
